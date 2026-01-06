@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=250&section=header&text=Hello%20World!&fontSize=70&fontColor=60a5fa&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=250&section=header&text=Welcome!&fontSize=70&fontColor=60a5fa&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <h1 align="center">I'm Tsoor Hartov 👋</h1>
   <h3 align="center">Full Stack Developer | React, Node.js & TypeScript</h3>
